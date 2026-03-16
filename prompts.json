@@ -31,7 +31,7 @@
 },
 {
 "id": 7,
-"question": "Identify the biggest "time-drain" in your current daily routine. What is one actionable step to minimize it?",
+"question": "Identify the biggest \"time-drain\" in your current daily routine. What is one actionable step to minimize it?",
 "type": "Productivity"
 },
 {
@@ -51,7 +51,7 @@
 },
 {
 "id": 11,
-"question": "What does "being healthy" mean to you personally, beyond just physical appearance or weight?",
+"question": "What does \"being healthy\" mean to you personally, beyond just physical appearance or weight?",
 "type": "Health"
 },
 {
@@ -126,17 +126,17 @@
 },
 {
 "id": 26,
-"question": "What is a "limiting belief" you hold about your abilities, and what evidence exists to disprove it?",
+"question": "What is a \"limiting belief\" you hold about your abilities, and what evidence exists to disprove it?",
 "type": "Personal Growth"
 },
 {
 "id": 27,
-"question": "Practice a "five senses" check-in right now: what are 5 things you see, 4 you feel, 3 you hear, 2 you smell, and 1 you taste?",
+"question": "Practice a \"five senses\" check-in right now: what are 5 things you see, 4 you feel, 3 you hear, 2 you smell, and 1 you taste?",
 "type": "Mindfulness"
 },
 {
 "id": 28,
-"question": "Describe what your "inner critic" sounds like. What is one compassionate response you can offer it today?",
+"question": "Describe what your \"inner critic\" sounds like. What is one compassionate response you can offer it today?",
 "type": "Mental Health"
 },
 {
@@ -146,7 +146,7 @@
 },
 {
 "id": 30,
-"question": "How do you distinguish between being "busy" and being "effective"? Which were you today?",
+"question": "How do you distinguish between being \"busy\" and being \"effective\"? Which were you today?",
 "type": "Productivity"
 },
 {
@@ -171,7 +171,7 @@
 },
 {
 "id": 35,
-"question": "What does professional "success" look like to you in this current stage of your life?",
+"question": "What does professional \"success\" look like to you in this current stage of your life?",
 "type": "Career & Ambition"
 },
 {
@@ -186,7 +186,7 @@
 },
 {
 "id": 38,
-"question": "Think of a time you had to be "brave." What did bravery look like in that specific moment?",
+"question": "Think of a time you had to be \"brave.\" What did bravery look like in that specific moment?",
 "type": "Resilience & Adversity"
 },
 {
@@ -196,12 +196,12 @@
 },
 {
 "id": 40,
-"question": "What is a secret desire or ambition you’ve been afraid to admit to yourself because it feels "silly" or "impossible"?",
+"question": "What is a secret desire or ambition you’ve been afraid to admit to yourself because it feels \"silly\" or \"impossible\"?",
 "type": "Shadow Work"
 },
 {
 "id": 41,
-"question": "When faced with a major decision, do you rely more on data and logic or your "gut feeling"? Why?",
+"question": "When faced with a major decision, do you rely more on data and logic or your \"gut feeling\"? Why?",
 "type": "Decision Making"
 },
 {
@@ -216,7 +216,7 @@
 },
 {
 "id": 44,
-"question": "What does "financial freedom" mean to you in terms of both a specific number and a lifestyle?",
+"question": "What does \"financial freedom\" mean to you in terms of both a specific number and a lifestyle?",
 "type": "Finances & Security"
 },
 {
@@ -226,7 +226,7 @@
 },
 {
 "id": 46,
-"question": "Where or when do you feel a sense of "awe" or connection to something much larger than yourself?",
+"question": "Where or when do you feel a sense of \"awe\" or connection to something much larger than yourself?",
 "type": "Spirituality & Beliefs"
 },
 {
@@ -251,7 +251,7 @@
 },
 {
 "id": 51,
-"question": "What are your "early warning signs" that you are approaching burnout or emotional exhaustion?",
+"question": "What are your \"early warning signs\" that you are approaching burnout or emotional exhaustion?",
 "type": "Mental Health"
 },
 {
@@ -261,7 +261,7 @@
 },
 {
 "id": 53,
-"question": "What does your ideal "deep work" environment look like? What tools or sounds help you focus?",
+"question": "What does your ideal \"deep work\" environment look like? What tools or sounds help you focus?",
 "type": "Productivity"
 },
 {
@@ -301,12 +301,12 @@
 },
 {
 "id": 61,
-"question": "What is a "silver lining" you’ve found in a difficult situation you've faced in the last six months?",
+"question": "What is a \"silver lining\" you’ve found in a difficult situation you've faced in the last six months?",
 "type": "Resilience & Adversity"
 },
 {
 "id": 62,
-"question": "What is one thing you will say "no" to today in order to protect your time and energy?",
+"question": "What is one thing you will say \"no\" to today in order to protect your time and energy?",
 "type": "Daily Intentions"
 },
 {
@@ -341,7 +341,7 @@
 },
 {
 "id": 69,
-"question": "How do you define the difference between "spirituality" and "religion" based on your own experience?",
+"question": "How do you define the difference between \"spirituality\" and \"religion\" based on your own experience?",
 "type": "Spirituality & Beliefs"
 },
 {
@@ -366,17 +366,17 @@
 },
 {
 "id": 74,
-"question": "Write a "permission slip" to yourself to do something you’ve been feeling guilty about avoiding.",
+"question": "Write a \"permission slip\" to yourself to do something you’ve been feeling guilty about avoiding.",
 "type": "Mental Health"
 },
 {
 "id": 75,
-"question": "What does "trust" look like in a partnership to you? How is it built and how is it maintained?",
+"question": "What does \"trust\" look like in a partnership to you? How is it built and how is it maintained?",
 "type": "Relationships"
 },
 {
 "id": 76,
-"question": "What is your "peak" time of day for mental clarity, and how can you better protect that window?",
+"question": "What is your \"peak\" time of day for mental clarity, and how can you better protect that window?",
 "type": "Productivity"
 },
 {
@@ -391,7 +391,7 @@
 },
 {
 "id": 79,
-"question": "How can you inject a sense of playfulness or "unproductive fun" into your work tasks today?",
+"question": "How can you inject a sense of playfulness or \"unproductive fun\" into your work tasks today?",
 "type": "Creativity"
 },
 {
@@ -401,7 +401,7 @@
 },
 {
 "id": 81,
-"question": "What is a professional "mountain" you are currently climbing? What does the summit look like?",
+"question": "What is a professional \"mountain\" you are currently climbing? What does the summit look like?",
 "type": "Career & Ambition"
 },
 {
@@ -436,7 +436,7 @@
 },
 {
 "id": 88,
-"question": "How do you contribute to the "culture" of your workplace, home, or friend group?",
+"question": "How do you contribute to the \"culture\" of your workplace, home, or friend group?",
 "type": "Community & Society"
 },
 {
@@ -521,7 +521,7 @@
 },
 {
 "id": 105,
-"question": "What does "safety" feel like in your body? Describe the physical sensations of being completely secure.",
+"question": "What does \"safety\" feel like in your body? Describe the physical sensations of being completely secure.",
 "type": "Mental Health"
 },
 {
@@ -571,7 +571,7 @@
 },
 {
 "id": 115,
-"question": "Think about a time you were "the new person" in a group. How did you navigate the discomfort of not belonging yet?",
+"question": "Think about a time you were \"the new person\" in a group. How did you navigate the discomfort of not belonging yet?",
 "type": "Resilience & Adversity"
 },
 {
@@ -591,7 +591,7 @@
 },
 {
 "id": 119,
-"question": "How do you define "neighborliness" in the digital age? Are you practicing it in your online interactions?",
+"question": "How do you define \"neighborliness\" in the digital age? Are you practicing it in your online interactions?",
 "type": "Community & Society"
 },
 {
@@ -601,7 +601,7 @@
 },
 {
 "id": 121,
-"question": "What does the concept of "financial enoughness" look like to you? Define the point where your needs are met.",
+"question": "What does the concept of \"financial enoughness\" look like to you? Define the point where your needs are met.",
 "type": "Finances & Security"
 },
 {
@@ -626,7 +626,7 @@
 },
 {
 "id": 126,
-"question": "If you were to start a "growth journal," what are the first three milestones you would want to track?",
+"question": "If you were to start a \"growth journal,\" what are the first three milestones you would want to track?",
 "type": "Personal Growth"
 },
 {
@@ -681,12 +681,12 @@
 },
 {
 "id": 137,
-"question": "What was the first "grown-up" responsibility you were ever given? How did it make you feel at the time?",
+"question": "What was the first \"grown-up\" responsibility you were ever given? How did it make you feel at the time?",
 "type": "Childhood & Nostalgia"
 },
 {
 "id": 138,
-"question": "Reflect on a period of your life where you felt "stuck." What was the catalyst that finally moved you forward?",
+"question": "Reflect on a period of your life where you felt \"stuck.\" What was the catalyst that finally moved you forward?",
 "type": "Resilience & Adversity"
 },
 {
@@ -701,7 +701,7 @@
 },
 {
 "id": 141,
-"question": "When faced with multiple good options, how do you determine which one is the "best" for your current season of life?",
+"question": "When faced with multiple good options, how do you determine which one is the \"best\" for your current season of life?",
 "type": "Decision Making"
 },
 {
@@ -756,12 +756,12 @@
 },
 {
 "id": 152,
-"question": "What does "loyalty" mean to you in a friendship? When was a time that loyalty was tested?",
+"question": "What does \"loyalty\" mean to you in a friendship? When was a time that loyalty was tested?",
 "type": "Relationships"
 },
 {
 "id": 153,
-"question": "What is the "low-hanging fruit" in your life right now—the easiest thing you could change for an immediate win?",
+"question": "What is the \"low-hanging fruit\" in your life right now—the easiest thing you could change for an immediate win?",
 "type": "Productivity"
 },
 {
@@ -856,7 +856,7 @@
 },
 {
 "id": 172,
-"question": "What is a "rule" you’ve been following that you didn't actually agree to? What happens if you break it?",
+"question": "What is a \"rule\" you’ve been following that you didn't actually agree to? What happens if you break it?",
 "type": "Personal Growth"
 },
 {
@@ -866,7 +866,7 @@
 },
 {
 "id": 174,
-"question": "What does "mental rest" look like for you? It is different from physical rest?",
+"question": "What does \"mental rest\" look like for you? It is different from physical rest?",
 "type": "Mental Health"
 },
 {
@@ -926,7 +926,7 @@
 },
 {
 "id": 186,
-"question": "Which of your negative self-beliefs feels the most "true"? Why are you so convinced of its accuracy?",
+"question": "Which of your negative self-beliefs feels the most \"true\"? Why are you so convinced of its accuracy?",
 "type": "Shadow Work"
 },
 {
@@ -956,22 +956,22 @@
 },
 {
 "id": 192,
-"question": "What does the word "grace" mean to you in the context of your own spiritual or personal beliefs?",
+"question": "What does the word \"grace\" mean to you in the context of your own spiritual or personal beliefs?",
 "type": "Spirituality & Beliefs"
 },
 {
 "id": 193,
-"question": "If you were a character in a book, what would be your "fatal flaw" and your greatest strength?",
+"question": "If you were a character in a book, what would be your \"fatal flaw\" and your greatest strength?",
 "type": "Self-Reflection"
 },
 {
 "id": 194,
-"question": "Identify three people in your life who have taught you something valuable by being a "bad example."",
+"question": "Identify three people in your life who have taught you something valuable by being a \"bad example.\"",
 "type": "Gratitude"
 },
 {
 "id": 195,
-"question": "What is a goal you have that feels "too big" to tell anyone else? Why does it feel that way?",
+"question": "What is a goal you have that feels \"too big\" to tell anyone else? Why does it feel that way?",
 "type": "Personal Growth"
 },
 {
@@ -981,7 +981,7 @@
 },
 {
 "id": 197,
-"question": "Describe your "emotional first aid kit"—the things you do to soothe yourself when you are hurting.",
+"question": "Describe your \"emotional first aid kit\"—the things you do to soothe yourself when you are hurting.",
 "type": "Mental Health"
 },
 {
@@ -2001,7 +2001,7 @@
 },
 {
 "id": 401,
-"question": "What is a part of your life that feels "on autopilot," and how can you bring more intention to it tomorrow?",
+"question": "What is a part of your life that feels \"on autopilot,\" and how can you bring more intention to it tomorrow?",
 "type": "Self-Reflection"
 },
 {
@@ -2021,12 +2021,12 @@
 },
 {
 "id": 405,
-"question": "How do you define "peace of mind"? Is it the absence of stress or the presence of something else?",
+"question": "How do you define \"peace of mind\"? Is it the absence of stress or the presence of something else?",
 "type": "Mental Health"
 },
 {
 "id": 406,
-"question": "Recall a time someone gave you "tough love." Was it effective, or did it cause more harm than good?",
+"question": "Recall a time someone gave you \"tough love.\" Was it effective, or did it cause more harm than good?",
 "type": "Relationships"
 },
 {
@@ -2046,22 +2046,22 @@
 },
 {
 "id": 410,
-"question": "If you were an architect tasked with building a "house of emotions," what would the room for "Joy" look like?",
+"question": "If you were an architect tasked with building a \"house of emotions,\" what would the room for \"Joy\" look like?",
 "type": "Creativity"
 },
 {
 "id": 411,
-"question": "What is your relationship with "rest"? Do you feel productive when you rest, or do you feel like you're wasting time?",
+"question": "What is your relationship with \"rest\"? Do you feel productive when you rest, or do you feel like you're wasting time?",
 "type": "Health"
 },
 {
 "id": 412,
-"question": "What is a "soft skill" you’ve developed that has been more valuable than your technical training?",
+"question": "What is a \"soft skill\" you’ve developed that has been more valuable than your technical training?",
 "type": "Career & Ambition"
 },
 {
 "id": 413,
-"question": "Write about a time you felt "second-hand embarrassment." What does that reaction say about your own social fears?",
+"question": "Write about a time you felt \"second-hand embarrassment.\" What does that reaction say about your own social fears?",
 "type": "Emotional Processing"
 },
 {
@@ -2071,7 +2071,7 @@
 },
 {
 "id": 415,
-"question": "Describe a time you were "underestimated." How did that affect your motivation to succeed?",
+"question": "Describe a time you were \"underestimated.\" How did that affect your motivation to succeed?",
 "type": "Resilience & Adversity"
 },
 {
@@ -2101,7 +2101,7 @@
 },
 {
 "id": 421,
-"question": "What does "financial legacy" mean to you beyond just leaving money behind?",
+"question": "What does \"financial legacy\" mean to you beyond just leaving money behind?",
 "type": "Finances & Security"
 },
 {
@@ -2126,7 +2126,7 @@
 },
 {
 "id": 426,
-"question": "What does "maturity" look like to you today compared to when you were 21?",
+"question": "What does \"maturity\" look like to you today compared to when you were 21?",
 "type": "Personal Growth"
 },
 {
@@ -2136,17 +2136,17 @@
 },
 {
 "id": 428,
-"question": "What is a recurring thought that keeps you up at night? What is a compassionate way to "answer" that thought?",
+"question": "What is a recurring thought that keeps you up at night? What is a compassionate way to \"answer\" that thought?",
 "type": "Mental Health"
 },
 {
 "id": 429,
-"question": "How has your definition of a "good friend" changed over the last decade?",
+"question": "How has your definition of a \"good friend\" changed over the last decade?",
 "type": "Relationships"
 },
 {
 "id": 430,
-"question": "What is the difference between "efficiency" and "effectiveness" in your current role?",
+"question": "What is the difference between \"efficiency\" and \"effectiveness\" in your current role?",
 "type": "Productivity"
 },
 {
@@ -2171,22 +2171,22 @@
 },
 {
 "id": 435,
-"question": "What is a career path you almost took? Do you ever wonder "what if"?",
+"question": "What is a career path you almost took? Do you ever wonder \"what if\"?",
 "type": "Career & Ambition"
 },
 {
 "id": 436,
-"question": "How do you process feelings of "longing" for something you can't identify?",
+"question": "How do you process feelings of \"longing\" for something you can't identify?",
 "type": "Emotional Processing"
 },
 {
 "id": 437,
-"question": "What was the "cool" thing to own when you were in middle school? Did you have it?",
+"question": "What was the \"cool\" thing to own when you were in middle school? Did you have it?",
 "type": "Childhood & Nostalgia"
 },
 {
 "id": 438,
-"question": "What is a "scar"—physical or emotional—that you are now proud of?",
+"question": "What is a \"scar\"—physical or emotional—that you are now proud of?",
 "type": "Resilience & Adversity"
 },
 {
@@ -2196,12 +2196,12 @@
 },
 {
 "id": 440,
-"question": "What is a trait you find "unattractive" in others? How does that trait protect them (or you)?",
+"question": "What is a trait you find \"unattractive\" in others? How does that trait protect them (or you)?",
 "type": "Shadow Work"
 },
 {
 "id": 441,
-"question": "What is the hardest "no" you’ve ever had to say? How did you feel after saying it?",
+"question": "What is the hardest \"no\" you’ve ever had to say? How did you feel after saying it?",
 "type": "Decision Making"
 },
 {
@@ -2226,7 +2226,7 @@
 },
 {
 "id": 446,
-"question": "What is a "coincidence" that happened to you that felt like more than just a coincidence?",
+"question": "What is a \"coincidence\" that happened to you that felt like more than just a coincidence?",
 "type": "Spirituality & Beliefs"
 },
 {
@@ -2251,7 +2251,7 @@
 },
 {
 "id": 451,
-"question": "How do you know when you are beginning to "people please" at the expense of your own needs?",
+"question": "How do you know when you are beginning to \"people please\" at the expense of your own needs?",
 "type": "Mental Health"
 },
 {
@@ -2261,7 +2261,7 @@
 },
 {
 "id": 453,
-"question": "What is your "shutdown ritual" at the end of a workday? Does it help you transition to personal time?",
+"question": "What is your \"shutdown ritual\" at the end of a workday? Does it help you transition to personal time?",
 "type": "Productivity"
 },
 {
@@ -2281,7 +2281,7 @@
 },
 {
 "id": 457,
-"question": "What is one thing you can do to improve your "sleep hygiene" tonight?",
+"question": "What is one thing you can do to improve your \"sleep hygiene\" tonight?",
 "type": "Health"
 },
 {
@@ -2291,22 +2291,22 @@
 },
 {
 "id": 459,
-"question": "Describe "disappointment" as if it were a physical object. What is its weight and temperature?",
+"question": "Describe \"disappointment\" as if it were a physical object. What is its weight and temperature?",
 "type": "Emotional Processing"
 },
 {
 "id": 460,
-"question": "What was a specific "boredom" activity you did as a child before the age of smartphones?",
+"question": "What was a specific \"boredom\" activity you did as a child before the age of smartphones?",
 "type": "Childhood & Nostalgia"
 },
 {
 "id": 461,
-"question": "Think of a time you were "thrown into the deep end." How did you learn to swim?",
+"question": "Think of a time you were \"thrown into the deep end.\" How did you learn to swim?",
 "type": "Resilience & Adversity"
 },
 {
 "id": 462,
-"question": "What is one way you can be more "gentle" with yourself during a busy day?",
+"question": "What is one way you can be more \"gentle\" with yourself during a busy day?",
 "type": "Daily Intentions"
 },
 {
@@ -2341,7 +2341,7 @@
 },
 {
 "id": 469,
-"question": "How do you practice "reverence" in your daily life?",
+"question": "How do you practice \"reverence\" in your daily life?",
 "type": "Spirituality & Beliefs"
 },
 {
@@ -2356,7 +2356,7 @@
 },
 {
 "id": 472,
-"question": "What is the most "grown-up" thing you’ve done recently that made you feel like you're succeeding at life?",
+"question": "What is the most \"grown-up\" thing you’ve done recently that made you feel like you're succeeding at life?",
 "type": "Personal Growth"
 },
 {
@@ -2366,17 +2366,17 @@
 },
 {
 "id": 474,
-"question": "What is the physical sensation of "patience" in your body? Where do you feel it most?",
+"question": "What is the physical sensation of \"patience\" in your body? Where do you feel it most?",
 "type": "Mental Health"
 },
 {
 "id": 475,
-"question": "What is one thing you can do to improve the "emotional safety" in your primary relationship?",
+"question": "What is one thing you can do to improve the \"emotional safety\" in your primary relationship?",
 "type": "Relationships"
 },
 {
 "id": 476,
-"question": "Identify a recurring "distraction" that keeps you from your goals. What is the root cause of that distraction?",
+"question": "Identify a recurring \"distraction\" that keeps you from your goals. What is the root cause of that distraction?",
 "type": "Productivity"
 },
 {
@@ -2386,7 +2386,7 @@
 },
 {
 "id": 478,
-"question": "Who is the most "alive" person you know? What habits do they have that contribute to that vitality?",
+"question": "Who is the most \"alive\" person you know? What habits do they have that contribute to that vitality?",
 "type": "Inspiration"
 },
 {
@@ -2401,7 +2401,7 @@
 },
 {
 "id": 481,
-"question": "What does "professional integrity" mean to you? When was a time it was tested?",
+"question": "What does \"professional integrity\" mean to you? When was a time it was tested?",
 "type": "Career & Ambition"
 },
 {
@@ -2411,12 +2411,12 @@
 },
 {
 "id": 483,
-"question": "What was the first thing you were ever "fascinated" by as a child?",
+"question": "What was the first thing you were ever \"fascinated\" by as a child?",
 "type": "Childhood & Nostalgia"
 },
 {
 "id": 484,
-"question": "What is a "mantra" you use when you feel like giving up on a difficult task?",
+"question": "What is a \"mantra\" you use when you feel like giving up on a difficult task?",
 "type": "Resilience & Adversity"
 },
 {
@@ -2426,7 +2426,7 @@
 },
 {
 "id": 486,
-"question": "What is a part of your personality that you try to "edit" when you are in professional settings?",
+"question": "What is a part of your personality that you try to \"edit\" when you are in professional settings?",
 "type": "Shadow Work"
 },
 {
@@ -2446,7 +2446,7 @@
 },
 {
 "id": 490,
-"question": "How does your relationship with "risk" affect your financial decisions?",
+"question": "How does your relationship with \"risk\" affect your financial decisions?",
 "type": "Finances & Security"
 },
 {
@@ -2456,7 +2456,7 @@
 },
 {
 "id": 492,
-"question": "How do you define "sacredness"? Is it tied to a place, a person, or an internal feeling?",
+"question": "How do you define sacredness? Is it tied to a place, a person, or an internal feeling?",
 "type": "Spirituality & Beliefs"
 },
 {
@@ -2466,12 +2466,12 @@
 },
 {
 "id": 494,
-"question": "Think of a time you were grateful for a "boring" day. What made the simplicity so valuable?",
+"question": "Think of a time you were grateful for a \"boring\" day. What made the simplicity so valuable?",
 "type": "Gratitude"
 },
 {
 "id": 495,
-"question": "What is the most significant "u-turn" you’ve made in your life so far?",
+"question": "What is the most significant \"u-turn\" you ve made in your life so far?",
 "type": "Personal Growth"
 },
 {
@@ -2481,7 +2481,7 @@
 },
 {
 "id": 497,
-"question": "What is a "permission" you need to give yourself today to feel mentally lighter?",
+"question": "What is a \"permission\" you need to give yourself today to feel mentally lighter?",
 "type": "Mental Health"
 },
 {
